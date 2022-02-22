@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Turing/static/css/main.5bc0175c.css",
+    "main.js": "/Turing/static/js/main.b90f9ccf.js",
+    "index.html": "/Turing/index.html",
+    "main.5bc0175c.css.map": "/Turing/static/css/main.5bc0175c.css.map",
+    "main.b90f9ccf.js.map": "/Turing/static/js/main.b90f9ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc0175c.css",
+    "static/js/main.b90f9ccf.js"
+  ]
+}
