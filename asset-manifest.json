@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/Turing/static/css/main.5bc0175c.css",
-    "main.js": "/Turing/static/js/main.b90f9ccf.js",
+    "main.js": "/Turing/static/js/main.ba6c173c.js",
+    "static/media/svg-4.svg": "/Turing/static/media/svg-4.a69bc25d119ba864a42de73f2f5fa734.svg",
+    "static/media/svg-5.svg": "/Turing/static/media/svg-5.c614f92c4a3334012acc67f1590bf7be.svg",
+    "static/media/svg-7.svg": "/Turing/static/media/svg-7.f9856b25c308a044e3910ad8c0727c25.svg",
+    "static/media/svg-8.svg": "/Turing/static/media/svg-8.a5a044be54d8d1dae71fae2f72bafcdf.svg",
+    "static/media/svg-1.svg": "/Turing/static/media/svg-1.48d08d0e397e8cbf9eb00acddd8e49e3.svg",
     "index.html": "/Turing/index.html",
     "main.5bc0175c.css.map": "/Turing/static/css/main.5bc0175c.css.map",
-    "main.b90f9ccf.js.map": "/Turing/static/js/main.b90f9ccf.js.map"
+    "main.ba6c173c.js.map": "/Turing/static/js/main.ba6c173c.js.map"
   },
   "entrypoints": [
     "static/css/main.5bc0175c.css",
-    "static/js/main.b90f9ccf.js"
+    "static/js/main.ba6c173c.js"
   ]
 }
